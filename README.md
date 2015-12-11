@@ -68,6 +68,7 @@ $ bower install ngCordova
 - [Google Analytics](https://github.com/danwilson/google-analytics-plugin)
 - [Google Plus](https://github.com/EddyVerbruggen/cordova-plugin-googleplus)
 - [HealthKit for iOS](https://github.com/Telerik-Verified-Plugins/HealthKit)
+- [Http](https://github.com/Telerik-Verified-Plugins/SecureHTTP)
 - [Httpd (Web Server)](https://github.com/floatinghotpot/cordova-httpd)
 - [Apple iAd](https://github.com/floatinghotpot/cordova-iad-pro) (:warning: share % Ad revenue)
 - [Image Picker](https://github.com/wymsee/cordova-imagePicker)

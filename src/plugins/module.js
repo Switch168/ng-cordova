@@ -39,6 +39,7 @@ angular.module('ngCordova.plugins', [
   'ngCordova.plugins.googlePlayGame',
   'ngCordova.plugins.googlePlus',
   'ngCordova.plugins.healthKit',
+  'ngCordova.plugins.http',
   'ngCordova.plugins.httpd',
   'ngCordova.plugins.iAd',
   'ngCordova.plugins.imagePicker',
